@@ -33,19 +33,6 @@ Design, build, and test a full-stack Sweet Shop Management System. This project 
   - Admin panel for add/update/delete sweets
 - Responsive, modern UI
 
-
-
-ScreenShots.
-
-<img width="1865" height="831" alt="Screenshot 2025-09-27 150306" src="https://github.com/user-attachments/assets/29c924a8-57bc-4651-b6da-642bb4456ddc" />
-<img width="1901" height="849" alt="Screenshot 2025-09-27 150321" src="https://github.com/user-attachments/assets/b5a8b994-b51a-4702-b61b-40e57275c32b" />
-<img width="1885" height="852" alt="Screenshot 2025-09-27 150328" src="https://github.com/user-attachments/assets/79a3e2c1-f1ae-40f7-8d1f-ff4984ccb3a4" />
-<img width="1863" height="845" alt="Screenshot 2025-09-27 150351" src="https://github.com/user-attachments/assets/ffdde8ea-18d7-41a0-8557-b679932679d6" />
-<img width="1844" height="861" alt="Screenshot 2025-09-27 150315" src="https://github.com/user-attachments/assets/49eb90d1-248a-4703-80ed-8b34db60f635" />
-
-
----
-
 ### Setup Instructions
 
 #### Backend
