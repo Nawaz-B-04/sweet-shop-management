@@ -88,7 +88,5 @@ AI improved productivity and reduced boilerplate time. All AI-generated code was
 
 ---
 
-**Note:** Plagiarism is strictly forbidden. AI assistance is encouraged, but all code must be your own work, augmented by modern tools.
-
 
 
